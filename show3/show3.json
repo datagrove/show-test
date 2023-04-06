@@ -1,0 +1,4 @@
+{
+    "testRoot": "../RunTest/TestResults",
+    "appRoot": "../results/dist"
+}
